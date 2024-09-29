@@ -6,9 +6,9 @@
 
   - 💼 Projects
       Here are some of the projects I've worked on:
-       **[Multi-Task Age, Ethnicity & Gender Prediction]**(Link to the Project):
+       **[Multi-Task Age, Ethnicity & Gender Prediction]**:
         Developed a custom Multitask CNN using MobileNet architecture, optimized for edge devices.
-      ** [Intracranial Haemorrhage Detection]**(Link to the Project):
+      **[Intracranial Haemorrhage Detection]**:
         Co-developed a patented medical imaging tool using ResNext 101 CNN architecture.
   - 💼 Experience:
       1. Generative AI Intern at Toosi Travels, London, UK, where I developed an LLM-based chatbot managing NLP tasks. 
