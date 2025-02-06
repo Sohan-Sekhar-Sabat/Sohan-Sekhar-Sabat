@@ -11,8 +11,9 @@
       **[Intracranial Haemorrhage Detection]**:
         Co-developed a patented medical imaging tool using ResNext 101 CNN architecture.
   - 💼 Experience:
-      1. Generative AI Intern at Toosi Travels, London, UK, where I developed an LLM-based chatbot managing NLP tasks. 
-      2. Deep Learning Intern at Pathpartner Technology, Bangalore, India, where I co-developed a patented medical imaging tool.
+      1. AI Engineer Intern at MyNewEarth, London, UK, where I am currently working on an LLM based emotionally intelligent chatbot and also on a django based application within which the LLM will be deployed. 
+      2. Data Science AI Intern at Toosi Travels, London, UK, where I developed an LLM-based chatbot managing NLP tasks. 
+      3. Research Intern Engineer at Pathpartner Technology, Bangalore, India, where I co-developed a patented medical imaging tool.
 
   - 👀 I’m interested in AI, Deep Learning, Robotics, and Cloud Computing.
   - 🌱 Learning:
