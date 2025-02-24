@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sohan-Sekhar-Sabat
 - 🚀 About Me
   - 🎓 Education:
-    1. MSc in Intelligent Systems and Robotics (Distinction) from De Montfort University, Leicester, UK
-    2. B.Eng. in Information Science and Engineering from Nitte Meenakshi Institute of Technology, Bangalore, India
+    1. MSc Intelligent Systems, Robotics (Distinction), De Montfort University, UK
+    2. B.Eng. Computer Engineering, Nitte Meenakshi Institute of Technology, India
 
   - 💼 Projects
       Here are some of the projects I've worked on:
