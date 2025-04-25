@@ -10,12 +10,12 @@
       **Intracranial Haemorrhage Detection**:
         German Patented medical-imaging tool using ResNext 101 CNN architecture.
   - 💼 Experience:
-      1. **AI Engineer Intern, MyNewEarth, London(Remote), UK** 
+      1. **Data Scientist Intern, MyNewEarth, London(Remote), UK** 
       Currently working on an LLM based emotionally intelligent chatbot and also on a django based application within which the LLM     
       will be deployed. 
       2. **Data Science & AI Intern at Toosi Travels, London, UK**,
          Webscraping, data-cleaning, LLM-based chatbot managing NLP tasks. 
-      3. **Data Scientist at Pathpartner Technology, Bangalore, India**,
+      3. **Research ML Scientist at Pathpartner Technology, Bangalore, India**,
          Co-developed a patented medical imaging tool.
 
   - 👀 AI, Computer Vision, Deep Learning, Robotics, and Cloud Computing.
